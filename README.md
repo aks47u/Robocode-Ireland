@@ -45,11 +45,13 @@ This robot does not represent a suitable strategy for future entries due to the 
 
 As per gamesfleadh.ie/compete/robocode/
 
-"...using the Sentry robot as an energy and points bank so as to achieve a higher score.
+>"...using the Sentry robot as an energy and points bank so as to achieve a higher score.
 Robocode for 2014 has been redesigned so that a robot receives no energy or points for hitting the SentryBot.
 We have implemented a new BorderSentry class to achieve this which uses the idea of a BorderArea (coloured red) which allows the SentryBot to cause damage to robots. If the robots are in the “safe zone” (coloured blue) the SentryBot bullets do not cause any damage. We recommend a safe zone of 100×100 in the middle of the screen which implies a border area of 300. The safe zone concept only applies to bullets from the SentryBot.
 These changes are implemented in Robocode 1.9 Beta"
 
 Was this in response to our little robot doing so well (5-1 in semifinal, 7-1 in the final) ?
+
+~~Yes~~
 
 I really hope so :)
